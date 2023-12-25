@@ -10,6 +10,8 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 <p align="right">
   <img widhth="460" height="300" src="https://img.freepik.com/premium-photo/flat-illustration-secretary-s-day-celebration_756748-53101.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais" >
 </p>
+Novice in Web Development and Python Programming. Enthusiastic learner, seeking opportunities to enhance skill and contribute to
+innovative solutions.
 
 ## Skills 🚀
 
