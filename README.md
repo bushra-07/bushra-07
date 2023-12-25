@@ -8,7 +8,7 @@ I’m @bushra-07, You likely haven't come across my name in bright lights, and I
 Currently pursuing **BE in CSE(AI & ML)** from M.H. Saboo Siddik College of Engineering🚀[University of Mumbai].
 Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Designing🎨.
 <p align="right">
-  <img widhth="460" height="300" src="[https://www.google.com/search?q=illustrations&sca_esv=593606187&rlz=1C1CHZN_enIN1082IN1082&tbm=isch&sxsrf=AM9HkKnCU7hY2gKM7TmKKCcdCU0b8H5Y-A:1703520973738&source=lnms&sa=X&sqi=2&ved=2ahUKEwiZ94aU_qqDAxXXSGwGHcXgC7gQ_AUoAXoECAIQAw&biw=1163&bih=539&dpr=1.65#imgrc=eiS_XWaJXwf99M&imgdii=XsFYCcy7Kabi1M](https://img.freepik.com/premium-photo/flat-illustration-secretary-s-day-celebration_756748-53101.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais)" >
+  <img widhth="460" height="300" src="https://img.freepik.com/premium-photo/flat-illustration-secretary-s-day-celebration_756748-53101.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais" >
 </p>
 
 ## Skills 🚀
