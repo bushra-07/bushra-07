@@ -10,7 +10,13 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 
 ## Skills 🚀
 
-- **Languages:** C, C++, Python, HTML, CSS, JavaScript
+- **Languages:** <img alt="Static Badge" src="https://img.shields.io/badge/C%20-%20%23F9423A">
+, <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-%20blue">
+, <img alt="Static Badge" src="https://img.shields.io/badge/Python%20-%20green">
+, <img alt="Static Badge" src="https://img.shields.io/badge/HTML5%20-%20%23e34c26">
+, <img alt="Static Badge" src="https://img.shields.io/badge/CSS3%20-%20%23264de4">
+, <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-%20%23F0DB4F">
+
 - **Tools:** VS Code, Jupyter, Pycharm, Git and a wand (kidding but like every coder needs one🖖).
 
 ## Let's Talk 📬
