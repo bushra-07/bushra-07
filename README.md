@@ -6,12 +6,8 @@ I’m @bushra-07, You likely haven't come across my name in bright lights, and I
 ## About me
 
 Currently pursuing **BE in CSE(AI & ML)** from M.H. Saboo Siddik College of Engineering🚀[University of Mumbai].
-Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Designing🎨.
-<p align="right">
-  <img widhth="460" height="300" src="https://img.freepik.com/premium-photo/flat-illustration-secretary-s-day-celebration_756748-53101.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais" >
-</p>
-Novice in Web Development and Python Programming. Enthusiastic learner, seeking opportunities to enhance skill and contribute to
-innovative solutions.
+Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Designing🎨. Novice in Web Development and Python Programming. Enthusiastic learner, seeking opportunities to enhance skill and contribute to innovative solutions.
+<img align="right" widhth="460" height="300" src="https://img.freepik.com/premium-photo/flat-illustration-secretary-s-day-celebration_756748-53101.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais" >
 
 ## Skills 🚀
 
