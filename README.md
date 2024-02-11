@@ -1,5 +1,5 @@
 <h1 align = "center">✨Bushra Shaikh✨</h1>
-<h3 align = "center">Student | Designer | Developer</h3>
+<h3 align = "center">Learner | Designer | Developer</h3>
 
 ### Hi there 👋,  Earthling(s)!
 ![](https://media.licdn.com/dms/image/D4D16AQEXDU9eLAJ1eQ/profile-displaybackgroundimage-shrink_350_1400/0/1693038689047?e=1709164800&v=beta&t=PUz3OVV6zoTy2y_LeDt04VWzp4RE8uvMV2-w_X96DRs)
