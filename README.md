@@ -20,15 +20,33 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 , <img alt="Static Badge" src="https://img.shields.io/badge/CSS3%20-%20%23264de4">
 , <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript%20-%20%23F0DB4F">
 
-- **Tools:** VS Code, Jupyter, Pycharm, Git and a wand (kidding but like every coder needs one🖖).
-
 ## Let's Talk 📬
 
 - **Ping me for:** Coding challenges, Discussion on Cats, Designs, Sci-Fi debates, or to discuss why pineapple doesn't belong on pizza! 🍍🚫(lol)
 
 ## Let's Connect!
-- 📧 Email: bushra.shaikh070103@gmail.com
+- 📧 Email: bushra.shaikh070103@gmail.com or connect.bushra07@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bushra-shaikh-2a623528a/
+
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">[Your Title] | [Your Focus Area]</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[bushra-07]&label=Profile%20views&color=0e75b6&style=flat" alt="[bushra-07]" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[bushra-07]" alt="[bushra-07]" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<!-- Add more tools as needed -->
+</p>
+
+<p><img align="left" src="https://api.githubtrends.io/user/svg/[yourusername]/langs?time_range=six_months&use_percent=True&compact=True&theme=classic" alt="[bushra-07]" /></p>
+
+<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/[yourusername]/repos?time_range=one_year&group=other&theme=classic" alt="[bushra-07]" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[bushra-07]&" alt="[bushra-07]" /></p>
 
 
 Feel free to reach out. I'm always open to collaboration and new opportunities. 😊
