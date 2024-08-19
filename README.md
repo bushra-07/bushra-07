@@ -63,7 +63,6 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 - 📧 Email: bushra.shaikh070103@gmail.com or connect.bushra07@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bushra-shaikh-2a623528a/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bushra-07)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra-07]&label=Profile%20views&color=0e75b6&style=flat" alt="[bushra-07]" /> </p>
 
