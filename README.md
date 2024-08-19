@@ -54,6 +54,7 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
     </a>
 </p>
 
+
 ## Let's Talk 📬
 
 - **Ping me for:** Coding challenges, Discussion on Cats, Designs, Sci-Fi debates, or to discuss why pineapple doesn't belong on pizza! 🍍🚫(lol)
@@ -64,7 +65,7 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bushra-07)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[yourusername]&label=Profile%20views&color=0e75b6&style=flat" alt="[bushra-07]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra-07]&label=Profile%20views&color=0e75b6&style=flat" alt="[bushra-07]" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[bushra-07]" alt="[bushra-07]" /></a> </p>
 
