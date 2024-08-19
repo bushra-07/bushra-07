@@ -58,19 +58,12 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 ## Let's Talk 📬
 
 - **Ping me for:** Coding challenges, Discussion on Cats, Designs, Sci-Fi debates, or to discuss why pineapple doesn't belong on pizza! 🍍🚫(lol)
+  
 
 ## Let's Connect!
 - 📧 Email: bushra.shaikh070103@gmail.com or connect.bushra07@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/bushra-shaikh-2a623528a/
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra-07]&label=Profile%20views&color=0e75b6&style=flat" alt="[bushra-07]" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=[bushra-07]" alt="[bushra-07]" /></a> </p>
-
-<p><img align="left" src="https://api.githubtrends.io/user/svg/[yourusername]/langs?time_range=six_months&use_percent=True&compact=True&theme=classic" alt="[bushra-07]" /></p>
-
-<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/[yourusername]/repos?time_range=one_year&group=other&theme=classic" alt="[bushra-07]" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[bushra-07]&" alt="[bushra-07]" /></p>
 
@@ -78,9 +71,6 @@ Also, diving into the depths of AI, ML and DS along with a dash of Web dev & Des
 Feel free to reach out. I'm always open to collaboration and new opportunities. 😊
 
 Thanks for stopping by!
-
-
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bushra-07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/bushra-shaikh-2a623528a//)  
